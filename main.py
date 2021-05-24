@@ -6,7 +6,7 @@ import time
 
 screen = Screen()
 screen.setup(width=600, height=600)
-screen.bgcolor('black')
+screen.bgcolor('white')
 screen.title('Snake Island')
 
 # Turtle Screen Animation Control.
